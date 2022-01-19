@@ -1,6 +1,6 @@
-package UebungenParallel2;
+package UebungenParal2;
 
-import UebungenParallel.Figur;
+import UebungenParal.Figur;
 
 import java.util.Scanner;
 

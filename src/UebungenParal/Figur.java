@@ -1,4 +1,4 @@
-package UebungenParallel;
+package UebungenParal;
 
 public class Figur {
 

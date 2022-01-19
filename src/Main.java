@@ -1,4 +1,4 @@
-import UebungenParallel2.Katze;
+import UebungenParal2.Katze;
 
 public class Main {
 

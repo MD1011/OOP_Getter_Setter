@@ -1,4 +1,4 @@
-package UebungenParallel2;
+package UebungenParal2;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
