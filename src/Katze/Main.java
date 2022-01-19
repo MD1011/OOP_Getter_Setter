@@ -1,4 +1,4 @@
-import UebungenParal2.Katze;
+package Katze;
 
 public class Main {
 

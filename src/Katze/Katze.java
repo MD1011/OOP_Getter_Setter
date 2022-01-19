@@ -1,4 +1,4 @@
-package UebungenParal2;
+package Katze;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
